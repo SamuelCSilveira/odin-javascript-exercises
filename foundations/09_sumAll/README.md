@@ -10,5 +10,5 @@ If the function receives invalid arguments (such as negative numbers, non-intege
 
 ## Hints
 
-- How will you ensure you're summing all integers within the correct range, no matter the order of the inputs?
-- Think about your sum's starting value. Then, how can you make sure every single number from the smaller input to the larger one (including both) gets added to it?
+- How will you ensure you're summing all integers within the correct range, no matter the order of the inputs? OK
+- Think about your sum's starting value. Then, how can you make sure every single number from the smaller input to the larger one (including both) gets added to it? OK

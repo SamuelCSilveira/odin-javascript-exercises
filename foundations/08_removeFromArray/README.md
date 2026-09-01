@@ -12,7 +12,7 @@ See if you can make use of some built-in array methods in this exercise.
 
 The first test on this one is fairly easy, but there are a few things to think about (or google) here for the later tests:
 
-- You can manipulate the original array you pass into the function call or create a new array that is returned as the result, but the function should return the resulting array regardless of the approach.
-- How to remove a single element from an array
-- How to deal with multiple optional arguments in a JavaScript function
-- For more information, check out MDN's page on [function arguments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments) - scroll down to the bit about `Array.from` or the spread operator. You can also check out MDN's page on [rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters).
+- You can manipulate the original array you pass into the function call or create a new array that is returned as the result, but the function should return the resulting array regardless of the approach. OK
+- How to remove a single element from an array OK
+- How to deal with multiple optional arguments in a JavaScript function OK
+- For more information, check out MDN's page on [function arguments](https://https://portalservicos.cfm.org.br/portal/login/pessoa-fisica/rndeveloper.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments) - scroll down to the bit about `Array.from` or the spread operator. You can also check out MDN's page on [rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters). OK
